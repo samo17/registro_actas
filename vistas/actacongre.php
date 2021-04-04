@@ -92,7 +92,7 @@ if ($_SESSION['actas']==1)
                         <tbody>
                           <tr>
                             <th scope="row">1</th>
-                            <td>FREPAP</td>
+                            <td>FRENTE POPULAR AGRÍCOLA FIA DEL PERÚ - FREPAP</td>
                             <td><img src="../public/img/partidos/frepap.png" alt="">                            
                             <td><strong><input type="number" class="form-control" name="presi0" id="presi0" min="0" required></strong></td>
                             <td><input type="number" class="form-control" name="congre01" id="congre01" min="0" required></td>
