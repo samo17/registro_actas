@@ -1,4 +1,4 @@
-# Registro de Actas de Escrutinio
+# Sistema de Registro de Actas de Escrutinio
 ## Elecciones 2021 - Peru (registro - Loreto)
 
 *Registro de Actas*   **2021**
@@ -11,7 +11,7 @@ Solo del Departamento de Loreto, no de todo el ~~Perú~~
 3. ~~Parlamento Andino~~  que aun no esta implementado  
 
 ---
->Samo [serviciosiquitos.com](http://serviciosiquitos.com "En Desarrollo")    
+>Samo(Samuel Mori) [serviciosiquitos.com](http://serviciosiquitos.com "En Desarrollo") :telephone_receiver: 965 804357 :email: samorj1783@gmail.com  
 ---
 
 Solo tendran que cambiar los datos del archivo **global.php** en (*registro_actas/config/global.php* )
@@ -29,7 +29,7 @@ define("DB_NAME", "registro_actas");
 define("DB_USERNAME", "root");
 
 //Contraseña del usuario de la base de datos
-define("DB_PASSWORD", "Samo.1783");
+define("DB_PASSWORD", "");
 
 //definimos la codificación de los caracteres
 define("DB_ENCODE","utf8");
@@ -42,6 +42,7 @@ define("PRO_NOMBRE","SAMO");
 ![Registro de Actas](files/img/sesion.png "Inicio Sesion")
 ![Registro de Actas](files/img/presidente.png "Actas registradas")
 ![Registro de Actas](files/img/presidente1.png " Registro de Actas")
+![Registro de Actas](files/img/congreso.png " Registro de Actas Congreso")
 
 **Tareas Culminadas**  :+1:
 
