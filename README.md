@@ -1,7 +1,13 @@
 # Sistema de Registro de Actas de Escrutinio
 ## Elecciones 2021 - Peru (registro - Loreto)
 
-*Registro de Actas*   **2021**
+*Registro de Actas*   **2021**    
+Faltando exactamente una semana para las elecciones presidenciales y congresales en Perú, pongo a el codigo libre de este Sistema simple de registro de actas de escrutinio incluyendo la base de datos (usuario: admin, contraseña: admin)  
+
+**Nota:** la parte estadistica la trabajo en Power BI, que estara en unos dias elaborado el reporte
+
+![Elaboracion de Reportes Power BI](files/img/powerbi.png "Reporte Power BI")
+
 
 Solo del Departamento de Loreto, no de todo el ~~Perú~~  
 
