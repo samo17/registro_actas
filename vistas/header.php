@@ -36,7 +36,7 @@ if (strlen(session_id()) < 1)
       <header class="main-header">
 
         <!-- Logo -->
-        <a href="index2.html" class="logo">
+        <a href="index.html" class="logo">
           <!-- mini logo for sidebar mini 50x50 pixels -->
           <span class="logo-mini"><b>20</b>21</span>
           <!-- logo for regular state and mobile devices -->
@@ -131,6 +131,7 @@ if (strlen(session_id()) < 1)
               <ul class="treeview-menu">
                 <li id="lPresidencial"><a href="actapresi.php"><i class="fa fa-legal"></i> Presidencial</a></li>
                 <li id="lCongresal"><a href="actacongre.php"><i class="fa fa-legal"></i> Congresal</a></li>
+                <li id="lParlamental"><a href="actaparla.php"><i class="fa fa-legal"></i> Parlamental</a></li>
               </ul>
             </li>';
             }
