@@ -131,7 +131,7 @@ if (strlen(session_id()) < 1)
               <ul class="treeview-menu">
                 <li id="lPresidencial"><a href="actapresi.php"><i class="fa fa-legal"></i> Presidencial</a></li>
                 <li id="lCongresal"><a href="actacongre.php"><i class="fa fa-legal"></i> Congresal</a></li>
-                <li id="lParlamental"><a href="actaparla.php"><i class="fa fa-legal"></i> Parlamental</a></li>
+                
               </ul>
             </li>';
             }

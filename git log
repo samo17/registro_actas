@@ -1,0 +1,47 @@
+[33mcommit 9c9c937022bd176dc8162cb17cc342279834c2f4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/parla[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: SAMO <samorj1783@gmail.com>
+Date:   Wed Apr 7 00:11:24 2021 -0500
+
+    Registro actas parlamento cant04
+
+[33mcommit 6d2ee6337f3938a1fbea9109316d00b4cb3244f1[m
+Author: SAMO <samorj1783@gmail.com>
+Date:   Sun Apr 4 18:39:52 2021 -0500
+
+    README version power bi2
+
+[33mcommit c1c0f9923c1c113766e3655957bc396290981e6d[m
+Author: SAMO <samorj1783@gmail.com>
+Date:   Sun Apr 4 18:36:35 2021 -0500
+
+    README version power bi
+
+[33mcommit 20e050511e98024465f2983a879e2fd94dbd0384[m
+Author: SAMO <samorj1783@gmail.com>
+Date:   Sun Apr 4 18:05:16 2021 -0500
+
+     Agregar README v final
+
+[33mcommit 94b5171bcd44dcc12770b55a5b26040d5cc71d5e[m
+Author: SAMO <samorj1783@gmail.com>
+Date:   Sun Apr 4 17:59:08 2021 -0500
+
+     Agregar README
+
+[33mcommit c1f685fd10a8fe854c593e68d5e22d7c8f3fa405[m
+Author: SAMO <samorj1783@gmail.com>
+Date:   Sun Apr 4 03:24:50 2021 -0500
+
+    cambio nombre frepap congreso
+
+[33mcommit 2e070266e24fab8c206d61584452d115f964207d[m
+Author: samo <samorj1783@gmail.com>
+Date:   Sun Apr 4 02:57:57 2021 -0500
+
+    agregue un .gitignore
+
+[33mcommit cee803599becf6d033188f78c3cc7e66c6c617d7[m
+Author: samo <samorj1783@gmail.com>
+Date:   Sun Apr 4 02:32:52 2021 -0500
+
+    registro acta presidencial, congresal, usuario y permisos

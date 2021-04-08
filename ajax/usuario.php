@@ -233,8 +233,7 @@ switch ($_GET["op"]){
 			//Determinamos los accesos del usuario
 			in_array(1,$valores)?$_SESSION['escritorio']=1:$_SESSION['escritorio']=0;
 			in_array(5,$valores)?$_SESSION['acceso']=1:$_SESSION['acceso']=0;	
-			in_array(10,$valores)?$_SESSION['actas']=1:$_SESSION['actas']=0;
-			//in_array(10,$valores)?$_SESSION['actas']=1:$_SESSION['actas']=0;
+			in_array(10,$valores)?$_SESSION['actas']=1:$_SESSION['actas']=0;			
 
 	    }
 	    echo json_encode($fetch);
